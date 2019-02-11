@@ -51,3 +51,11 @@ Koa itself needs love with:
 - HTTP2
 
 Contribute! https://github.com/koajs/koa/issues/1114
+
+## My Projects
+
+Here are a bunch of projects of mine that need help:
+
+- https://github.com/jonathanong/ims was going to be a image CMS system
+- https://github.com/jonathanong/react-asset-loader should use React Suspense in the future
+- https://github.com/jonathanong/s3-proxy-stream
